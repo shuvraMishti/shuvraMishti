@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuvraMishti
+- 👋 Hi, I'm ShuvraMishti 
 - 👀 I’m interested in Robotics, biomedical engineering, web development, plc programming.
 - 🌱 I’m currently learning machines and simulation.
 
